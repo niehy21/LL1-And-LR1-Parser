@@ -1,0 +1,7 @@
+var x;
+var y;
+x = 0xffffffff;
+y = 0;
+if (x + 1 == y) {
+    print("0xffffffff == -1");
+}

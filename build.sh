@@ -1,0 +1,1 @@
+g++ main.cpp ToyLexer/Token.cpp ToyLexer/TokenDict.cpp ToyLexer/TokenList.cpp ToyLexer/ToyLexer.cpp ToyFileIO/ToyFileIO.cpp ToySyntaxer/Symbol.cpp ToySyntaxer/Production.cpp ToySyntaxer/ToySyntaxer.cpp ToyAST/ToyAST.cpp ToyLR1Parser/LR1Table.cpp ToyLR1Parser/ToyLR1Parser.cpp -o parser

@@ -1,0 +1,17 @@
+var max;
+var i;
+var j;
+max = 1000000;
+i = 2;
+while (i * i < max + 1) {
+    j = 2;
+    while (j * j < i + 1) {
+        if (i - i / j == 0) {
+            break = break;
+        }
+        j = j + 1;
+    }
+    print i;
+    print " ";
+    i = i + 1;
+}
